@@ -14,6 +14,6 @@ My name is Hannah, and I'm a senior studying Visual Communications Design at Eas
 
 [Work Showcase](https://new.express.adobe.com/webpage/MkVCfEnmHl4pU)
 
-[Socials]()
+[LinkedIn](www.linkedin.com/in/hannah-green-a2658a359)
 
-[Resume]()
+[Resume 2024](https://github.com/user-attachments/files/19598334/Green.Hannah_Resume.2024.pdf)
