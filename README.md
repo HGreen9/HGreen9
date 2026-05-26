@@ -8,16 +8,22 @@
 
 Pronouns: She/Her
 
-Email: Hgreen9@ewu.edu
+Email: Hannah.Green.2025@gmail.com
 
 ***
 
-  My name is Hannah, and I'm a senior studying Visual Communications Design at Eastern Washington University, currently earning certificates in User Experience and Front End Web Design. A lifelong Spokane resident, I’m passionate about crafting and I’m committed to building a meaningful career right here in my community. My mission is to create designs that bridge functionality and artistry, blending nature-inspired craftsmanship with modern techniques. I aim to evoke emotion, tell stories, and build authentic connections through detailed, thoughtful design. My portfolio reflects a dedication to high-quality, inclusive, and sustainable solutions that celebrate human differences and challenge societal norms. Ultimately, I hope to pursue a career in inclusive design that increases positive representation for marginalized communities, including people with disabilities and minorities. 
+  Hi, I’m Hannah! I'm a Visual Communications Design graduate from Eastern Washington University with certificates in User Experience and Front End Web Design. I’m a lifelong Spokane resident who loves creating story-driven experiences through art, design, and interactive media.
 
-## $${\color{Purple}Links}$$ 📂
+I’m especially drawn to the intersection of storytelling and interaction design, the small details that shape how a person feels while moving through a website, game, or visual experience. A lot of my work focuses on emotion, atmosphere, and immersion, with the goal of creating experiences that feel intuitive, memorable, and deeply human.
+
+Whether I’m designing interfaces, building game concepts, or crafting visual narratives, I care about creating moments that invite curiosity, comfort, and connection. My background in visual design, UX, and front-end development allows me to blend creativity with functionality while building accessible and engaging experiences that quietly tell stories through interaction itself.
+
+I’m passionate about thoughtful craftsmanship, inclusive design, and creating work that helps people feel seen, understood, and emotionally connected to the spaces they explore.
+
+[//]: # (## $${\color{Purple}Links}$$ 📂
 
 - [Work Showcase](https://new.express.adobe.com/webpage/MkVCfEnmHl4pU)
 
 - [LinkedIn](www.linkedin.com/in/hannah-green-a2658a359)
 
-- [Resume 2024](https://github.com/user-attachments/files/19598334/Green.Hannah_Resume.2024.pdf)
+- [Resume 2024](https://github.com/user-attachments/files/19598334/Green.Hannah_Resume.2024.pdf))
