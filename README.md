@@ -19,11 +19,3 @@ I’m especially drawn to the intersection of storytelling and interaction desig
 Whether I’m designing interfaces, building game concepts, or crafting visual narratives, I care about creating moments that invite curiosity, comfort, and connection. My background in visual design, UX, and front-end development allows me to blend creativity with functionality while building accessible and engaging experiences that quietly tell stories through interaction itself.
 
 I’m passionate about thoughtful craftsmanship, inclusive design, and creating work that helps people feel seen, understood, and emotionally connected to the spaces they explore.
-
-[//]: # (## $${\color{Purple}Links}$$ 📂
-
-- [Work Showcase](https://new.express.adobe.com/webpage/MkVCfEnmHl4pU)
-
-- [LinkedIn](www.linkedin.com/in/hannah-green-a2658a359)
-
-- [Resume 2024](https://github.com/user-attachments/files/19598334/Green.Hannah_Resume.2024.pdf))
